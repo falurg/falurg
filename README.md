@@ -1,4 +1,5 @@
 ## Falur Grissom | Data Analyst
+![About](https://img.shields.io/badge/currently-Online-brightgreen)
 ![About](https://img.shields.io/badge/playing-DiabloIV-red)
 ![About](https://img.shields.io/badge/coding-Python-blue)
 
