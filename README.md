@@ -2,7 +2,7 @@
 
 Passionate about data. Ready to make an impact.
 
-Skills: Python | SQL | Tableau | Data manipulation
+Skills: Python | SQL | Tableau | Power BI | Data manipulation | Data visualization | Statistical analysis | Data cleaning | Data modeling | Machine learning | Predictive modeling | Data storytelling
 
 Self-taught enthusiast, with a strong drive to learn and grow.
 
