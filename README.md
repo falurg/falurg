@@ -1,5 +1,7 @@
 ## Falur Grissom | Data Analyst
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/falurg/)
+
 Passionate about data. Ready to make an impact.
 
 Skills: Python | SQL | Tableau | Power BI | Data manipulation | Data visualization | Statistical analysis | Data cleaning | Data modeling | Machine learning | Predictive modeling | Data storytelling
