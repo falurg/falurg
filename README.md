@@ -1,5 +1,5 @@
 ## Falur Grissom | Data Analyst
-
+![About Me](https://img.shields.io/badge/playing-DiabloIV-red)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/falurg)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/falurg)
 
