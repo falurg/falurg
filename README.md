@@ -6,6 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/falurg)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/falurg)
+![My Skills](https://skillicons.dev/icons?i=twitter)
 
 Passionate about data. Ready to make an impact.
 
