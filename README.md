@@ -5,11 +5,12 @@
 
 Passionate about data. Ready to make an impact.
 
-Skills: Python | SQL | Tableau | Power BI | Data manipulation | Data visualization | Statistical analysis | Data cleaning | Data modeling | Machine learning | Predictive modeling | Data storytelling
-
 Self-taught enthusiast, with a strong drive to learn and grow.
 
 Seeking opportunities in Dallas, Texas. Let's connect.
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
 <!--
 **falurg/falurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
