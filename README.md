@@ -1,6 +1,6 @@
 ## Falur Grissom | Data Analyst
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/falurg/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,discord)](https://www.linkedin.com/in/falurg/,https://discord.com/users/falurg)
 
 Passionate about data. Ready to make an impact.
 
