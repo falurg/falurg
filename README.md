@@ -6,8 +6,8 @@ Self-taught enthusiast, with a strong drive to learn and grow.
 
 Seeking opportunities in Dallas, Texas. Let's connect.
 
-[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/falurg)  
-[![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/falurg)  
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/falurg)
+[![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/falurg)
 ![Contact](https://skillicons.dev/icons?i=twitter)  
 [![Skills](https://skillicons.dev/icons?i=py,linux,mysql,sqlite,vscode,bash,selenium)](https://skillicons.dev)
 
