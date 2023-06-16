@@ -9,6 +9,7 @@ Seeking opportunities in Dallas, Texas. Let's connect.
 <a href="https://www.linkedin.com/in/falurg"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://discord.com/users/falurg"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <a href="https://twitter.com/falur_g"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
 [![Skills](https://skillicons.dev/icons?i=py,linux,mysql,sqlite,vscode,bash,selenium)](https://skillicons.dev)
 
 ![About](https://img.shields.io/badge/currently-online-brightgreen)
