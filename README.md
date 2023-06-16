@@ -11,7 +11,7 @@ Self-taught enthusiast, with a strong drive to learn and grow.
 
 Seeking opportunities in Dallas, Texas. Let's connect.
 
-[![Skills](https://skillicons.dev/icons?i=py,linux,mysql,sqlite,vscode,bash,selenium)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,vscode,mysql,sqlite,postgres,linux,bash,selenium)](https://skillicons.dev)
 
 ![About](https://img.shields.io/badge/currently-online-brightgreen)
 ![About](https://img.shields.io/badge/playing-DiabloIV-red)
