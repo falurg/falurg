@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/falurg"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://discord.com/users/falurg"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <a href="https://twitter.com/falur_g"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://github.com/falurg/Portfolio"><img src="https://img.shields.io/badge/-Portfolio-5865f2?style=for-the-badge" />
 
 Passionate about data. Ready to make an impact.
 
