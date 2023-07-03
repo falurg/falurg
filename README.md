@@ -1,4 +1,4 @@
-## Falur Grissom | Data Analyst
+## Falur Grissom
 
 <a href="https://www.linkedin.com/in/falurg"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://discord.com/users/falurg"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
