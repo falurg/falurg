@@ -5,12 +5,6 @@
 <a href="https://twitter.com/falur_g"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://github.com/falurg/Portfolio"><img src="https://img.shields.io/badge/-Portfolio-5865f2?style=for-the-badge" />
 
-Passionate about data. Ready to make an impact.
-
-Self-taught enthusiast, with a strong drive to learn and grow.
-
-Seeking opportunities in Dallas, Texas. Let's connect.
-
 [![Skills](https://skillicons.dev/icons?i=py,vscode,mysql,sqlite,postgres,linux,bash,selenium)](https://skillicons.dev)
 
 ![About](https://img.shields.io/badge/currently-online-brightgreen)
