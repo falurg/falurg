@@ -10,7 +10,7 @@
 ![About](https://img.shields.io/badge/currently-online-brightgreen)
 ![About](https://img.shields.io/badge/playing-DiabloIV-red)
 ![About](https://img.shields.io/badge/coding-Python-blue)
-![About](https://img.shields.io/badge/updated-06%2F16%2F23-orange)
+![About](https://img.shields.io/badge/updated-07%2F03%2F23-orange)
 <!--
 **falurg/falurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
