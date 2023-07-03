@@ -5,7 +5,7 @@
 <a href="https://twitter.com/falur_g"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://github.com/falurg/Portfolio"><img src="https://img.shields.io/badge/-Portfolio-5865f2?style=for-the-badge" />
 
-[![Skills](https://skillicons.dev/icons?i=py,vscode,mysql,sqlite,postgres,linux,bash,selenium)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,vscode,mysql,sqlite,postgres,linux,bash)](https://skillicons.dev)
 
 ![About](https://img.shields.io/badge/currently-online-brightgreen)
 ![About](https://img.shields.io/badge/playing-DiabloIV-red)
